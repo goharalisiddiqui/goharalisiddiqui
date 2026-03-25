@@ -6,9 +6,9 @@
 
 ## Publications
 
-- **[ML for AI in drug design](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202302375)** Machine learning algorithms for elucidation of the binding modes of drug/target interactions
-- **[ML Force fields](https://pubs.acs.org/doi/10.1021/acs.jctc.5c01465)** Use of machine learning force fields for Metallocages used for drug/target encapsulation
-- **[ML dynamic surrogate](https://openreview.net/forum?id=hRloY7o68X)** Using [Temporal Fusion Transformer (TFT)](https://www.sciencedirect.com/science/article/pii/S0169207021000637) as surrogate for dynamical systems
+- **[ML for AI in drug design](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202302375)**: Machine learning algorithms for elucidation of the binding modes of drug/target interactions
+- **[ML Force fields](https://pubs.acs.org/doi/10.1021/acs.jctc.5c01465)**: Use of machine learning force fields for Metallocages used for drug/target encapsulation
+- **[ML dynamic surrogate](https://openreview.net/forum?id=hRloY7o68X)**: Using [Temporal Fusion Transformer (TFT)](https://www.sciencedirect.com/science/article/pii/S0169207021000637) as surrogate for dynamical systems
 
 ## GitHub Activity
 
