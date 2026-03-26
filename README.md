@@ -11,9 +11,11 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
-## Current Projects
+## Projects under construction 🚧🚧
 
-- 🚧🚧 **[surrogate-dynamics](https://github.com/goharalisiddiqui/surrogate-dynamics)**: A python-based framework to develop machine learning surrogate models for dynamics of atomisic systems
+-  ⚛️ **[surrogate-dynamics](https://github.com/goharalisiddiqui/surrogate-dynamics)**: A python-based framework to develop machine learning surrogate models for dynamics of atomisic systems
+-  🧬 **[automated-cages](https://github.com/goharalisiddiqui/automated-cages)**: Design and simulate [metallocages](https://en.wikipedia.org/wiki/Metal_organic_cages) using machine learning force fields
+-  🏓 **[ft-transcendence](https://github.com/goharalisiddiqui/ft-transcendence)**: A react-app of a simple two player ping-pong game server
 
 ## Publications
 
