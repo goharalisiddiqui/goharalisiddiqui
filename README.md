@@ -4,6 +4,8 @@
 
 ## Current Projects
 
+- 🚧🚧 **[surrogate-dynamics](https://github.com/goharalisiddiqui/surrogate-dynamics)**: A python-based framework to develop machine learning surrogate models for dynamics of atomisic systems
+
 ## Publications
 
 - **[ML for AI in drug design](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202302375)**: Machine learning algorithms for elucidation of the binding modes of drug/target interactions
