@@ -17,7 +17,7 @@
 -  🧬 **[automated-cages](https://github.com/goharalisiddiqui/automated-cages)**: Design and simulate [metallocages](https://en.wikipedia.org/wiki/Metal_organic_cages) using machine learning force fields
 -  🏓 **[ft-transcendence](https://github.com/goharalisiddiqui/ft-transcendence)**: A react-app of a simple two player ping-pong game server
 
-## Publications
+## Publications 📰📰
 
 - **[ML for AI in drug design](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.202302375)**: Machine learning algorithms for elucidation of the binding modes of drug/target interactions
 - **[ML Force fields](https://pubs.acs.org/doi/10.1021/acs.jctc.5c01465)**: Use of machine learning force fields for Metallocages used for drug/target encapsulation
